@@ -1,0 +1,11 @@
+section {
+  border: 2px solid black;
+  padding: 5px;
+  margin: 25px 200px;
+}
+div {
+  background: #47d7ac;
+  border: 5px solid black;
+  padding: 25px;
+  margin: 25px 25px;
+}
